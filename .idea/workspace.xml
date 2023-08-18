@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a763cf6a-45c0-4f75-9663-4f05388f9927" name="Changes" comment="new requirements">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a763cf6a-45c0-4f75-9663-4f05388f9927" name="Changes" comment="app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +236,63 @@
       <option name="project" value="LOCAL" />
       <updated>1692354987303</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1692371130315</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692371130315</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gunicorn">
+      <option name="closed" value="true" />
+      <created>1692372144533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692372144533</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gunicorn">
+      <option name="closed" value="true" />
+      <created>1692372185930</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692372185930</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gunicorn">
+      <option name="closed" value="true" />
+      <created>1692373422015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692373422015</updated>
+    </task>
+    <task id="LOCAL-00007" summary="gunicorn">
+      <option name="closed" value="true" />
+      <created>1692374141390</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692374141390</updated>
+    </task>
+    <task id="LOCAL-00008" summary="app">
+      <option name="closed" value="true" />
+      <created>1692374331905</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692374331905</updated>
+    </task>
+    <task id="LOCAL-00009" summary="app">
+      <option name="closed" value="true" />
+      <created>1692374415168</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692374415168</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -316,6 +370,9 @@
     <MESSAGE value="commit package" />
     <MESSAGE value="patches histogram" />
     <MESSAGE value="new requirements" />
-    <option name="LAST_COMMIT_MESSAGE" value="new requirements" />
+    <MESSAGE value="test" />
+    <MESSAGE value="gunicorn" />
+    <MESSAGE value="app" />
+    <option name="LAST_COMMIT_MESSAGE" value="app" />
   </component>
 </project>
