@@ -45,7 +45,7 @@ def home():
     # return render_template('index.html')
     return ("Application flask")
 
-
+'''
 @app.route('/predict/', methods=['GET'])
 def predict():
     """
@@ -196,7 +196,7 @@ app.add_url_rule('/predict', 'predict', predict)
 
 # Define endpoint for flask
 app.add_url_rule('/predict', 'predict', predict)
-
+'''
 # lancement de l'application
 if __name__ == "__main__":
     app.run(debug=True)

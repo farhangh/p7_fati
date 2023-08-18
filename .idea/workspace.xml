@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a763cf6a-45c0-4f75-9663-4f05388f9927" name="Changes" comment="new requirements" />
+    <list default="true" id="a763cf6a-45c0-4f75-9663-4f05388f9927" name="Changes" comment="new requirements">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="489eb25f-edde-4bbb-b9ed-b2e5fd26981e" />
-        <option name="url" value="https://github.com/Fati766/p7_flask_new.git" />
+        <option name="url" value="https://github.com/Fati766/p7_flask_.git" />
       </UrlAndAccount>
     </option>
   </component>
