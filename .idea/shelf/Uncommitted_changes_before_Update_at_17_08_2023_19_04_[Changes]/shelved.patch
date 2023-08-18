@@ -1,0 +1,22 @@
+Index: requirements.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/requirements.txt b/requirements.txt
+new file mode 100644
+--- /dev/null	(date 1692291834865)
++++ b/requirements.txt	(date 1692291834865)
+@@ -0,0 +1,12 @@
++Flask==2.2.2
++lime==0.2.0.1
++matplotlib==3.7.1
++matplotlib==3.7.2
++numpy==1.23.5
++numpy==1.25.2
++pandas==1.5.3
++pandas==2.0.3
++pytest==7.4.0
++scikit_learn==1.2.2
++seaborn==0.12.2
++shap==0.42.1
